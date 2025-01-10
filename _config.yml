@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Sun Yongkang"
-description              : "Sun Yongkang's Homepage"
+description              : "Welcome to my homepage"
 repository               : "MyriadVerse/myriad-homepage.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Sun Yongkang"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "PolyU"
+  avatar           : "images/image.png"
+  bio              : "PhD student in The Hong Kong Polytechnic University"
   location         : "Hong Kong, China"
   employer         :
   pubmed           : 
