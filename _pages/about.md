@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Sun Yongkang is a PhD student in the [Department of Computing](https://www.polyu.edu.hk/comp/) at The Hong Kong Polytechnic University. He obtained his Bachelor of Engineering degree and graduated with honors from the [School of Computer Science](https://cs.whu.edu.cn/) and the [Hongyi Honor College](https://hyxt.whu.edu.cn/) at Wuhan University.
+Sun Yongkang is a PhD student in the [Department of Computing](https://www.polyu.edu.hk/comp/) at The Hong Kong Polytechnic University. He graduated with an honor Bachelor of Engineering degree from the [School of Computer Science](https://cs.whu.edu.cn/) and the [Hongyi Honor College](https://hyxt.whu.edu.cn/) at Wuhan University.
 
-During his undergraduate studies, his research was heavily focused on computer vision and Unmanned Aerial Vehicle (UAVs) in the [BRAIN lab](https://www.zhiyuteam.com/) in WHU under the guidance of Prof. [Guo Chi](https://jszy.whu.edu.cn/guochi). Now he is pursuing a PhD in the PolyU, shifting his research focus to big data and AI under the supervision of Dr. [Shi Jieming](https://www4.comp.polyu.edu.hk/~jiemshi/).
+He began focusing on computer vision and Unmanned Aerial Vehicles (UAVs) in the [BRAIN lab](https://www.zhiyuteam.com/) at WHU from his first year of undergraduate studies, under the guidance of Prof. [Guo Chi](https://jszy.whu.edu.cn/guochi). Currently, he is pursuing a PhD in the PolyU, shifting his research focus to big data and AI under the supervision of Dr. [Shi Jieming](https://www4.comp.polyu.edu.hk/~jiemshi/).
 
-My research interests encompass big data, data mining, databases, and machine learning, with a particular emphasis on tabular data. If you are seeking any form of academic collaboration, please feel free to reach out via [email](mailto:yongkang.sun@connect.polyu.hk).
+My research interests include big data, data mining, databases, and machine learning, particularly focusing on tabular data. If you are interested in any form of academic collaboration, please feel free to reach out via [email](mailto:yongkang.sun@connect.polyu.hk).
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
