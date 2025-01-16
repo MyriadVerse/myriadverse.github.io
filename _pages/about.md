@@ -19,9 +19,9 @@ redirect_from:
 
 Sun Yongkang is a PhD student in the [Department of Computing](https://www.polyu.edu.hk/comp/) at The Hong Kong Polytechnic University. He graduated with an honor Bachelor of Engineering degree from the [School of Computer Science](https://cs.whu.edu.cn/) and the [Hongyi Honor College](https://hyxt.whu.edu.cn/) at Wuhan University.
 
-He began focusing on computer vision and Unmanned Aerial Vehicles (UAVs) in the [BRAIN lab](https://www.zhiyuteam.com/) at WHU from his first year of undergraduate studies, under the guidance of Prof. [Guo Chi](https://jszy.whu.edu.cn/guochi). Currently, he is pursuing a PhD in the PolyU, shifting his research focus to big data and AI under the supervision of Dr. [Shi Jieming](https://www4.comp.polyu.edu.hk/~jiemshi/).
+He began focusing on computer vision and Unmanned Aerial Vehicles (UAVs) in the [BRAIN lab](https://www.zhiyuteam.com/) at WHU from his first year of undergraduate studies, under the guidance of Prof. [Guo Chi](https://jszy.whu.edu.cn/guochi). Currently, he is pursuing a PhD in the PolyU, shifting his research focus to big data under the supervision of Dr. [Shi Jieming](https://www4.comp.polyu.edu.hk/~jiemshi/).
 
-My research interests include big data, data mining, databases, and machine learning, particularly focusing on tabular data. If you are interested in any form of academic collaboration, please feel free to reach out via [email](mailto:yongkang.sun@connect.polyu.hk).
+My research interests include machine learning, data mining and databases, particularly focusing on tabular data. If you are interested in any form of academic collaboration, please feel free to reach out via [email](mailto:yongkang.sun@connect.polyu.hk).
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -46,19 +46,28 @@ My research interests include big data, data mining, databases, and machine lear
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 📝 Publications 
+# 📝 Projects
+**Automatic Avoidance of Dynamic Obstacles by UAVs Using Event Cameras**
+
+Advisor: Prof. Guo Chi
+- deployed a complete obstacle avoidance framework onto UAVs, including self-motion compensation,
+dynamic obstacle segmentation, obstacle state information and fast obstacle avoidance strategies
+ 
 
 # 🎖 Honors and Awards
-<!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2024.09* PolyU Research Postgraduate Scholarship, The Hong Kong Polytechnic University
+- *2024.06* Honor Graduate, Hongyi Honor College, Wuhan University
+- *2020.09 ~ 2024.06* Academic Scholarship (awarded annually), Hongyi Honor College, Wuhan University
+- *2020.09 ~ 2024.06* Model Student Award (awarded annually), Wuhan University
+- *2020.09* First-class Scholarship for First-year Students, Wuhan University
 
 # 📖 Educations
-<!-- - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2024.09 - present*, Ph.D student in Computing, The Hong Kong Polytechnic University
+- *2020.09 - 2024.06*, B.Eng in Computer Science and Technology, Wuhan University. GPA: 3.85/4.0, Average Score: 91.67/100 
 
-# 💬 Invited Talks
-<!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- # 💬 Invited Talks
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-<!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+<!-- # 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
