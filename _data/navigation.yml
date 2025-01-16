@@ -19,7 +19,7 @@ main:
     url: "/#-educations"
 
   - title: "Others"
-  url: "/#-others"
+    url: "/#-others"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
