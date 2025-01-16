@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Sun Yongkang(孙永康) is a PhD student in the [Department of Computing](https://www.polyu.edu.hk/comp/) at The Hong Kong Polytechnic University. He graduated with an honor Bachelor of Engineering degree from the [School of Computer Science](https://cs.whu.edu.cn/) and the [Hongyi Honor College](https://hyxt.whu.edu.cn/) at Wuhan University.
+Sun Yongkang is a PhD student in the [Department of Computing](https://www.polyu.edu.hk/comp/) at The Hong Kong Polytechnic University. He graduated with an honor Bachelor of Engineering degree from the [School of Computer Science](https://cs.whu.edu.cn/) and the [Hongyi Honor College](https://hyxt.whu.edu.cn/) at Wuhan University.
 
 He is currently pursuing a PhD in the PolyU, shifting his research focus to big data under the supervision of Dr. [Shi Jieming](https://www4.comp.polyu.edu.hk/~jiemshi/). Previously, He began focusing on computer vision and Unmanned Aerial Vehicles (UAVs) in the [BRAIN lab](https://www.zhiyuteam.com/) at WHU from his first year of undergraduate studies, under the guidance of Prof. [Guo Chi](https://jszy.whu.edu.cn/guochi).
 
