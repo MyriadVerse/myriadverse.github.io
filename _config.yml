@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Sun Yongkang"
+title                    : "Yongkang SUN"
 description              : "Welcome to my homepage"
 repository               : "MyriadVerse/myriad-homepage.github.io"
 google_scholar_stats_use_cdn : false
@@ -24,7 +24,7 @@ author:
   name             : "Sun Yongkang"
   avatar           : "images/image.png"
   bio              : "PhD student in The Hong Kong Polytechnic University"
-  location         : "Hong Kong, China"
+  location         : "Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
