@@ -47,7 +47,12 @@ My research interests include machine learning, data mining and databases, parti
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 📝 Projects
-**Automatic Avoidance of Dynamic Obstacles by UAVs Using Event Cameras**
+**Table Column Type Annotation Leveraging Contextual Semantic Information** (present)
+
+Advisor: Dr. Shi Jieming
+- Use table context semantic information to accurately annotate columns
+
+**Automatic Avoidance of Dynamic Obstacles by UAVs Using Event Cameras** (during undergraduate studies)
 
 Advisor: Prof. Guo Chi
 - deployed a complete obstacle avoidance framework onto UAVs, including self-motion compensation,
