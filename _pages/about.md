@@ -46,7 +46,7 @@ My research interests include machine learning, data mining and databases, parti
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 📝 Projects
+# 📝 Research
 **Table Column Type Annotation Leveraging Contextual Semantic Information** (present)
 
 Advisor: Dr. Shi Jieming
