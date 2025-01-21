@@ -71,7 +71,7 @@ dynamic obstacle segmentation, obstacle state information and fast obstacle avoi
 - *2020.09 - 2024.06*, B.Eng in Computer Science and Technology, Wuhan University. GPA: 3.85/4.0, Average Score: 91.67/100 
 
 # 💬 Others
-- Teaching assistant (TA) of ENG2003 (2024 fall): [INFORMATION TECHNOLOGY](https://www.polyu.edu.hk/feng/-/media/department/feng/common-subject/eng2003_pdf.pdf?la=en&hash=FECC0F81A9506619F010DCFA3AA96CC4)
+- Teaching assistant (TA) of ENG2003 (2024 fall) [INFORMATION TECHNOLOGY](https://www.polyu.edu.hk/feng/-/media/department/feng/common-subject/eng2003_pdf.pdf?la=en&hash=FECC0F81A9506619F010DCFA3AA96CC4) and COMP5434 (2025 spring) [INFORMATION TECHNOLOGY](https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP5434.pdf)
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
