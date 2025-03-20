@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Sun Yongkang is a PhD student in the [Department of Computing](https://www.polyu.edu.hk/comp/) at The Hong Kong Polytechnic University. He graduated with an honor Bachelor of Engineering degree from the [School of Computer Science](https://cs.whu.edu.cn/) and the [Hongyi Honor College](https://hyxt.whu.edu.cn/) at Wuhan University.
+Sun Yongkang is a PhD student in the [Department of Computing](https://www.polyu.edu.hk/comp/) at The Hong Kong Polytechnic University (PolyU). He graduated with an honor Bachelor of Engineering degree from the [School of Computer Science](https://cs.whu.edu.cn/) and the [Hongyi Honor College](https://hyxt.whu.edu.cn/) at Wuhan University (WHU).
 
-He is currently pursuing a PhD in the PolyU, shifting his research focus to big data under the supervision of Dr. [Shi Jieming](https://www4.comp.polyu.edu.hk/~jiemshi/). Previously, He began focusing on computer vision and Unmanned Aerial Vehicles (UAVs) in the [BRAIN lab](https://www.zhiyuteam.com/) at WHU from his first year of undergraduate studies, under the guidance of Prof. [Guo Chi](https://jszy.whu.edu.cn/guochi).
+He is currently pursuing a PhD in the PolyU, shifting his research focus to big data analytics under the supervision of Dr. [Shi Jieming](https://www4.comp.polyu.edu.hk/~jiemshi/). Previously, he had worked on some interesting projects about computer vision and Unmanned Aerial Vehicles (UAVs) in the [BRAIN lab](https://www.zhiyuteam.com/) at WHU, under the guidance of Prof. [Guo Chi](https://jszy.whu.edu.cn/guochi).
 
 My research interests include machine learning, data mining and databases, particularly focusing on tabular data. If you are interested in any form of academic collaboration, please feel free to reach out via [email](mailto:yongkang.sun@connect.polyu.hk).
 
@@ -45,7 +45,7 @@ My research interests include machine learning, data mining and databases, parti
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-
+<!-- 
 # 📝 Research
 **Table Column Type Annotation Leveraging Contextual Semantic Information** (present)
 
@@ -57,7 +57,7 @@ Advisor: Dr. Shi Jieming
 Advisor: Prof. Guo Chi
 - deployed a complete obstacle avoidance framework onto UAVs, including self-motion compensation,
 dynamic obstacle segmentation, obstacle state information and fast obstacle avoidance strategies
- 
+  -->
 
 # 🎖 Honors and Awards
 - *2024.09* PolyU Research Postgraduate Scholarship, The Hong Kong Polytechnic University
