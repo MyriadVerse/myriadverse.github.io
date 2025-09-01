@@ -30,9 +30,9 @@ My research interests include machine learning, data mining and databases, parti
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
-Retrieve-and-Verify: A Table Context Selection Framework for Accurate Column Annotations
+### Retrieve-and-Verify: A Table Context Selection Framework for Accurate Column Annotations  
 
-Zhihao Ding*, **Yongkang Sun***, Jieming Shi
+Zhihao Ding\*, **Yongkang Sun**\*, Jieming Shi  
 
 **SIGMOD 2026**, in the Proceedings of the ACM Conference on Management of Data, 2026.
 
