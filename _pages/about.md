@@ -42,7 +42,7 @@ Zhihao Ding\*, **Yongkang Sun**\*, Jieming Shi
 - *2024.09 - present*, Ph.D student in Computing, The Hong Kong Polytechnic University
 - *2020.09 - 2024.06*, B.Eng in Computer Science and Technology, Wuhan University. GPA: 3.85/4.0, Average Score: 91.67/100 
 
-# 💻 Experience
+# 💻 Experiences
 - *2026.01 - present*, Research Intern at ByteDance in the Douyin Risk Control Group
 
 # 🎖 Honors and Awards
