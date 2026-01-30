@@ -17,11 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Sun Yongkang is a PhD student in the [Department of Computing](https://www.polyu.edu.hk/comp/) at Hong Kong Polytechnic University (PolyU). He graduated with an honor Bachelor of Engineering degree from the [School of Computer Science](https://cs.whu.edu.cn/) and the [Hongyi Honor College](https://hyxt.whu.edu.cn/) at Wuhan University (WHU).
+Hi, I‘m Sun Yongkang, a PhD student in the [Department of Computing](https://www.polyu.edu.hk/comp/) at The Hong Kong Polytechnic University, where I conduct research in big data analytics under the supervision of Dr. [Shi Jieming](https://www4.comp.polyu.edu.hk/~jiemshi/). I received my Bachelor of Engineering degree with honors from the [School of Computer Science](https://cs.whu.edu.cn/) and the [Hongyi Honor College](https://hyxt.whu.edu.cn/) at Wuhan University, where I worked on several projects related to computer vision and Unmanned Aerial Vehicles (UAVs) in the [BRAIN lab](https://www.zhiyuteam.com/) under the guidance of Prof. [Guo Chi](https://jszy.whu.edu.cn/guochi). In January 2026, I started an internship at [ByteDance](https://www.bytedance.com/en/), Douyin Risk Control Group (Shenzhen), conducting research on content safety and multimodal foundation models.
 
-He is currently pursuing a PhD in the PolyU, shifting his research focus to big data analytics under the supervision of Dr. [Shi Jieming](https://www4.comp.polyu.edu.hk/~jiemshi/). Previously, he had worked on some interesting projects about computer vision and Unmanned Aerial Vehicles (UAVs) in the [BRAIN lab](https://www.zhiyuteam.com/) at WHU, under the guidance of Prof. [Guo Chi](https://jszy.whu.edu.cn/guochi).
-
-My research interests include machine learning, data mining and databases, particularly focusing on tabular data. If you are interested in any form of academic collaboration, please feel free to reach out via [email](mailto:yongkang.sun@connect.polyu.hk).
+My research interests include:
+- **Big Data Analytics and Data Mining**, especially Table Understanding.
+- **Multimodal Foundation Models**, especially Content Safety.
+If you are interested in any form of academic collaboration, please feel free to reach out via [email](mailto:yongkang.sun@connect.polyu.hk).
 
 
 <!-- 
