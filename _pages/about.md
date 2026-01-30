@@ -22,6 +22,7 @@ Hi, I'Sun Yongkang, a PhD student in the [Department of Computing](https://www.p
 My research interests include:
 - **Big Data Analytics and Data Mining**, especially Table Understanding.
 - **Multimodal Foundation Models**, especially Content Safety.
+
 If you are interested in any form of academic collaboration, please feel free to reach out via [email](mailto:yongkang.sun@connect.polyu.hk).
 
 
@@ -37,6 +38,12 @@ Zhihao Ding\*, **Yongkang Sun**\*, Jieming Shi
 
 **SIGMOD 2026**, in the Proceedings of the ACM Conference on Management of Data, 2026.
 
+# 📖 Educations
+- *2024.09 - present*, Ph.D student in Computing, The Hong Kong Polytechnic University
+- *2020.09 - 2024.06*, B.Eng in Computer Science and Technology, Wuhan University. GPA: 3.85/4.0, Average Score: 91.67/100 
+
+# 💻 Experience
+- *2026.01 - present*, Research Intern at ByteDance in the Douyin Risk Control Group
 
 # 🎖 Honors and Awards
 - *2024.09* PolyU Research Postgraduate Scholarship, The Hong Kong Polytechnic University
@@ -44,10 +51,6 @@ Zhihao Ding\*, **Yongkang Sun**\*, Jieming Shi
 - *2020.09 ~ 2024.06* Academic Scholarship (awarded annually), Hongyi Honor College, Wuhan University
 - *2020.09 ~ 2024.06* Model Student Award (awarded annually), Wuhan University
 - *2020.09* First-class Scholarship for First-year Students, Wuhan University
-
-# 📖 Educations
-- *2024.09 - present*, Ph.D student in Computing, The Hong Kong Polytechnic University
-- *2020.09 - 2024.06*, B.Eng in Computer Science and Technology, Wuhan University. GPA: 3.85/4.0, Average Score: 91.67/100 
 
 # 💬 Others
 - Teaching assistant (TA) of INFORMATION TECHNOLOGY (2024 fall) and BIG DATA COMPUTING (2025 spring, 2025 fall)
