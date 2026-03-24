@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I’m SUN Yongkang, a PhD student in the [Department of Computing](https://www.polyu.edu.hk/comp/) at The Hong Kong Polytechnic University. My research focuses on data management, with a particular interest in tabular data, and I am fortunate to work under the supervision of Dr. [SHi Jieming](https://www4.comp.polyu.edu.hk/~jiemshi/).
+Hi, I’m SUN Yongkang, a PhD student in the [Department of Computing](https://www.polyu.edu.hk/comp/) at Hong Kong Polytechnic University. My research focuses on data management, with a particular interest in tabular data, and I am fortunate to work under the supervision of Dr. [SHi Jieming](https://www4.comp.polyu.edu.hk/~jiemshi/).
 
 Before joining PolyU, I received my Bachelor of Engineering degree with honors from the [School of Computer Science](https://cs.whu.edu.cn/) and the [Hongyi Honor College](https://hyxt.whu.edu.cn/) at Wuhan University, where I was advised by Prof. [GUO Chi](https://jszy.whu.edu.cn/guochi).
 
