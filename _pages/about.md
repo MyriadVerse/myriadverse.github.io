@@ -20,8 +20,8 @@ redirect_from:
 Hi, I’m SUN Yongkang, a PhD student in the [Department of Computing](https://www.polyu.edu.hk/comp/) at Hong Kong Polytechnic University. My research focuses on data management, with a particular interest in tabular data, and I am fortunate to work under the supervision of Dr. [SHi Jieming](https://www4.comp.polyu.edu.hk/~jiemshi/).
 
 Before joining PolyU, I received my Bachelor of Engineering degree with honors from the [School of Computer Science](https://cs.whu.edu.cn/) and the [Hongyi Honor College](https://hyxt.whu.edu.cn/) at Wuhan University, where I was advised by Prof. [GUO Chi](https://jszy.whu.edu.cn/guochi).
-
-Since January 2026, I have been a research intern at ByteDance with the Douyin Risk Control Group in Shenzhen, focusing on content safety and vision-language models.
+<!-- 
+Since January 2026, I have been a research intern at ByteDance with the Douyin Risk Control Group in Shenzhen, focusing on content safety and vision-language models. -->
 
 My research interests include:
 - **Data Management**, particularly Table Understanding.
@@ -53,8 +53,8 @@ Zhihao Ding\*, **Yongkang Sun**\*, Jieming Shi
 - *2024.09 - present*, Ph.D student in Computing, Hong Kong Polytechnic University
 - *2020.09 - 2024.06*, B.Eng in Computer Science and Technology, Wuhan University. GPA: 3.85/4.0, Average Score: 91.67/100 
 
-# 💻 Experiences
-- *2026.01 - present*, Research Intern at ByteDance in the Douyin Risk Control Group
+<!-- # 💻 Experiences
+- *2026.01 - present*, Research Intern at ByteDance in the Douyin Risk Control Group -->
 
 # 🎖 Honors and Awards
 - *2024.09* PolyU Research Postgraduate Scholarship, The Hong Kong Polytechnic University
